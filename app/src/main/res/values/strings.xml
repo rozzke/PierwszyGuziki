@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Pierwsze</string>
+
+    <!-- ZADANIE 3 -->
+    <string name="label_name">Imię</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_phone">Numer telefonu</string>
+    <string name="hint_imie">Wpisz imię</string>
+    <string name="hint_email">Wpisz email</string>
+    <string name="hint_phone">Wpisz numer telefonu</string>
 </resources>
